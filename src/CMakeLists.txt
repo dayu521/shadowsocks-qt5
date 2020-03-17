@@ -23,6 +23,13 @@ set(SOURCE
     connectionitem.cpp
     qrcodecapturer.cpp
     )
+list(APPEND SOURCE
+    mainwindow.ui
+    settingsdialog.ui
+    editdialog.ui
+    sharedialog.ui
+    uriinputdialog.ui
+    )
 
 if (WIN32)
     list(APPEND SOURCE ss-qt5.rc)
