@@ -1,7 +1,7 @@
 #include <QFileDialog>
 #include "qrwidget.h"
 #include "sharedialog.h"
-#include "ui_sharedialog.h"
+#include "ui/ui_sharedialog.h"
 
 ShareDialog::ShareDialog(const QByteArray &ssUrl, QWidget *parent) :
     QDialog(parent),

@@ -1,5 +1,5 @@
 #include "settingsdialog.h"
-#include "ui_settingsdialog.h"
+#include "ui/ui_settingsdialog.h"
 #include <QPushButton>
 
 SettingsDialog::SettingsDialog(ConfigHelper *ch, QWidget *parent) :

@@ -1,5 +1,5 @@
 #include "editdialog.h"
-#include "ui_editdialog.h"
+#include "ui/ui_editdialog.h"
 #include "ssvalidator.h"
 #include "ip4validator.h"
 #include "portvalidator.h"

@@ -1,5 +1,5 @@
 #include "uriinputdialog.h"
-#include "ui_uriinputdialog.h"
+#include "ui/ui_uriinputdialog.h"
 #include "ssvalidator.h"
 #include <QPushButton>
 

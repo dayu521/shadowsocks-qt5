@@ -24,11 +24,11 @@ set(SOURCE
     qrcodecapturer.cpp
     )
 list(APPEND SOURCE
-    mainwindow.ui
-    settingsdialog.ui
-    editdialog.ui
-    sharedialog.ui
-    uriinputdialog.ui
+    ui/mainwindow.ui
+    ui/settingsdialog.ui
+    ui/editdialog.ui
+    ui/sharedialog.ui
+    ui/uriinputdialog.ui
     )
 
 if (WIN32)
